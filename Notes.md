@@ -16,9 +16,11 @@ compiled through to the proper instructions.
 
 #### Compiling Programs
 * Compilers:
+
 ** cc
 ** gcc
 * EX:
+
 ** gcc program_to_compile.c
 ** Result: program_to_compile.o - This "o" is for object code.
 ** Now the program will be linked. This adds any code that was referenced in
