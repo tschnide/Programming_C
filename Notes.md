@@ -19,6 +19,7 @@ compiled through to the proper instructions.
 
 ** cc
 ** gcc
+
 * EX:
 
 ** gcc program_to_compile.c
