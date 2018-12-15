@@ -1,6 +1,5 @@
 ## Notes about Programming C (3rd Edition)
-### Note to readers on GitHub. This is simply a catalouge of ideas that occur
-to me as I read. They may or may not make sense or be any help beyond amusement to others than I.
+### Note to readers on GitHub. This is simply a catalouge of ideas that occur to me as I read. They may or may not make sense or be any help beyond amusement to others than I.
 
 #### Assembler vs Compiler
 * Assembly language is easier to understand than binary but each instruction
