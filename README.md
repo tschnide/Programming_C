@@ -1,2 +1,2 @@
-# Programming_C
-Exercises and Notes from Programming In C 3rd Edition
+#Programming_C
+Exercises and Notes from Programming C 3rd Edition
