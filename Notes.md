@@ -32,9 +32,9 @@ your code like a library.
 * The term "loading" refers to loading the program into memory.
 
 ## Chapter 3
-#### Running programs
 
 ## Chapter 4
+
 
 ## Quick Lookup
 * To run: ./<program name>
