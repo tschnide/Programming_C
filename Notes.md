@@ -34,6 +34,12 @@ your code like a library.
 ## Chapter 3
 
 ## Chapter 4
+* Variables can begin with and underscore or a letter and then be followed by
+  letters, underscores, and numbers.
+* Numbers work as you would expect. There are two cool exceptions.
+  Integers  preceded by 0 are in octal so 050 (8 * 5) is equivalant to 50 in base
+ten.  
+  Integers  preceded by 0x or in hex.
 
 
 ## Quick Lookup
@@ -41,7 +47,14 @@ your code like a library.
 * If you get an error like this:a.out: No such file or directory, then it probably means the  current directory is not in your PATH.
 * To compile with your own name gcc <source.c> -o <name_of_executable>
 * Comments: /* */ or //
-* 
+* Data Types:
+  `int`  
+  `float`  
+  `double`  
+  `char`  
+  `_Bool`  
+* Table 4.1 has a complete list
+ 
 ## Terminology
 * **Building**: The entire process of compiling and linking.
 
